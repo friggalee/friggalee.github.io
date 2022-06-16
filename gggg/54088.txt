@@ -250,7 +250,7 @@
   ],
 "flags" : [ "youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili","duoduozy", "renrenmi" ,"优酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩","哔哩","zy1080","4k蓝光","内部蓝光"],
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHROCHM6Ly9naXRodWluY29tL111YW5Ic2luZy9mcmVIZC
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHROCHM6Ly9naXRodWluY29tL111YW5Ic2luZy9mcmVIZC
 9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
 
 
