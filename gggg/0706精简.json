@@ -3,7 +3,7 @@
 {
 "spider":"https://friggalee.github.io/4444/qiaoji0706.jar",
    
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHMHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnLzExbHRlMA=="]}]}],
 
 
 "sites":[
